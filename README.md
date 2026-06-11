@@ -11,8 +11,6 @@ Nishchitha28/Nishchitha28** is a ✨ _special_ ✨ repository because its `READM
 
 ## 🔭 Projects I’ve Worked On
 
-- 🗑️ **Smart Community Waste Management System** – Full-stack web application developed using Java, MySQL, HTML5, CSS3, and JavaScript to automate waste pickup scheduling, request management, and real-time tracking workflows  
-
 - 🛵 **MotoMate – Two-Wheeler Service Booking System** – Java Spring Boot application with REST APIs, OTP authentication, booking management, and Hibernate/MySQL integration for efficient vehicle service scheduling  
 
 - 🤖 **AI Resume Analyzer** – Python-based AI application that compares resumes with job descriptions, extracts ATS keywords, and provides recommendation workflows using REST API integration and automation logic  
@@ -22,13 +20,15 @@ Nishchitha28/Nishchitha28** is a ✨ _special_ ✨ repository because its `READM
 
 ## 🛠️ Tech Stack
 
-- **Programming Languages:** Java, Python, SQL, JavaScript, C  
-- **Frontend Technologies:** HTML5, CSS3, JavaScript, React.js  
-- **Backend Technologies:** Spring Boot, REST APIs, JDBC, Hibernate, JPA, FastAPI  
-- **Databases:** MySQL, PostgreSQL, Oracle  
-- **Tools & Platforms:** Git, GitHub, Postman, Maven, Jira, VS Code, Eclipse  
-- **Cloud & DevOps:** AWS Fundamentals, Docker, Jenkins, CI/CD Fundamentals  
-- **Currently Learning:** DevOps, Kubernetes, Cloud Infrastructure, Automation
+- **Programming Languages:** Java, Python, SQL, JavaScript, C
+- **Frontend Technologies:** HTML5, CSS3, JavaScript
+- **Backend Technologies:** Spring Boot, REST APIs, JDBC, Servlets, Hibernate, JPA, FastAPI 
+- **Databases:** MySQL 
+- **Tools & Platforms:** Git, GitHub, Postman, Jira, Maven, Eclipse, VS Code
+- **Cloud & DevOps:** AWS Fundamentals, Docker, Jenkins, CI/CD Fundamentals
+- **Testing:** JUnit, Unit Testing, Integration Testing, API Testing, Functional Testing
+- **Computer Science Fundamentals:** OOP, Data Structures & Algorithms (DSA), DBMS, SDLC
+- **AI & Emerging Technologies:** Generative AI, Prompt Engineering
 
 ## 🤝 Collaboration
 
